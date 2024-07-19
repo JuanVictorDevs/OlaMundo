@@ -5,7 +5,7 @@ Estou aprendendo linguagem **Markdown** no Curso em Video de Git e GitHub
 
 Negrito: **Teste** ou __Teste__
 Italico: *Teste* ou _Teste_
-Riscado: ~Teste~
+Riscado: ~~Teste~~
 
 Títulos: 
 # Título
